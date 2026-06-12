@@ -1,56 +1,37 @@
 # Personal Data Collector
 
-A simple Python project that collects personal information from the user and displays:
-- Name
-- Age
-- Height
-- Favorite Number
-- Data Types
-- Memory Addresses
-- Approximate Birth Year
+A simple Python program that collects personal information from the user and displays the entered data along with its data type, memory address, and an approximate birth year calculation.
 
----
+## Features
 
-## 📸 Output Screenshot
-
-![Program Output]("C:\Users\Vraj Jetani\OneDrive\Desktop\TASK\fundamental booster\Screenshot 2026-06-11 135527.png")
-
-### Screenshot Preview
-Attach the screenshot file `Screenshot 2026-06-11 135527(1).png` in the same repository folder so GitHub can display it.
-
----
-
-## 🚀 Features
-
-- Takes user input from the keyboard
-- Demonstrates Python data types (`str`, `int`, `float`)
-- Displays memory addresses using `id()`
-- Calculates approximate birth year
+- Accepts user input:
+  - Name
+  - Age
+  - Height
+  - Favourite Number
+- Displays:
+  - Entered values
+  - Data types of each value
+  - Memory addresses using `id()`
+- Calculates approximate birth year based on age
 - Beginner-friendly Python project
 
----
+## Technologies Used
 
-## 📂 Project Structure
+- Python 3
 
-```text
-Personal-Data-Collector/
-│
-├── persoal_datacollector.py
-├── Screenshot 2026-06-11 135527(1).png
-└── README.md
-```
+## How to Run
 
----
-
-## ▶️ How to Run
+1. Install Python 3 on your system.
+2. Download or clone this project.
+3. Open a terminal in the project folder.
+4. Run the program:
 
 ```bash
 python persoal_datacollector.py
 ```
 
----
-
-## 💻 Sample Output
+## Example Output
 
 ```text
 Welcome to personal data collector:
@@ -60,25 +41,49 @@ Enter your age: 21
 Enter your hight: 5.2
 Enter your fav num: 7
 
-Your birth year is approx: 2005
+Thank you , give your personal information
+
+Name: vraj jetani
+Age: 21
+Hight: 5.2
+Favourit_number: 7
+
+Your birth year is approx: 2005 Based on your age of 21
+
+Thank you! for Give The Time Data Collector.Goodbye
 ```
 
----
+## Project Structure
 
-## 📚 Concepts Used
+```text
+Personal-Data-Collector/
+│
+├── persoal_datacollector.py
+├── README.md
+└── screenshot.png
+```
 
+## Screenshot
+
+<img width="1920" height="1080" alt="Screenshot 2026-06-11 135527" src="https://github.com/user-attachments/assets/47bf94da-3c70-4104-b959-9dab753a9fa8" />
+
+
+> Replace the image name if your screenshot file has a different name.
+
+## Learning Concepts
+
+This project demonstrates:
+
+- User Input (`input()`)
+- Type Conversion (`str`, `int`, `float`)
 - Variables
-- User Input
-- Type Conversion
 - Data Types
-- type() Function
-- id() Function
+- Memory Address (`id()`)
 - Arithmetic Operations
+- Formatted Output
 
----
+## Author
 
-## 👨‍💻 Author
+**Vraj Jetani**
 
-Vraj Jetani
-
-Python Beginner Project
+Python Beginner Project 🚀

@@ -65,7 +65,8 @@ Personal-Data-Collector/
 
 ## Screenshot
 
-<img width="1920" height="1080" alt="Screenshot 2026-06-11 135527" src="https://github.com/user-attachments/assets/47bf94da-3c70-4104-b959-9dab753a9fa8" />
+<img width="757" height="441" alt="main_screenshort" src="https://github.com/user-attachments/assets/cef10dc3-b84b-4cf1-a676-019d0c46de17" />
+
 
 
 > Replace the image name if your screenshot file has a different name.
